@@ -1,0 +1,5 @@
+file_type,file_name,error,status
+WRPM,Dwale - Unit 3C.wrpm,Analysis failed: 'str' object has no attribute 'name',❌ FAILED
+WRPM,Station H - Unit 2 C.wrpm,Analysis failed: 'str' object has no attribute 'name',❌ FAILED
+XML,578_A_09_24_20258_08_02AM_Curves.xml,Analysis failed: 'str' object has no attribute 'name',❌ FAILED
+XML,578_A_09_24_20258_08_02AM_Levels.xml,Analysis failed: 'str' object has no attribute 'name',❌ FAILED
